@@ -9,6 +9,6 @@ coderspace is online platform where you can submit and practise coding problem t
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](www.linkedin.com/in/aniket-yadav-4a156b192)]
 
 
